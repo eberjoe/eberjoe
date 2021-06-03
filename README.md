@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi peeps 👋
+
+I'm Eber, currently working with modern front-end techs but a programming enthusiast since childhood 👶
+I'm very much into Java too ☕
+
+⚡ Fun fact: When I started out I used to save data on cassette tapes 📼🙈
 
 <!--
 **eberjoe/eberjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
