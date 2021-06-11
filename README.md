@@ -4,8 +4,6 @@ I'm Eber, currently working with modern front-end techs but a programming enthus
 
 I'm very much into Java too ☕
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 ⚡ Fun fact: When I started out I used to save data on cassette tapes 📼🙈
 
 <!--
