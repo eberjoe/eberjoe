@@ -4,7 +4,9 @@ I'm Eber, currently working with modern front-end techs but a programming enthus
 
 I'm very much into Java too ☕
 
-⚡ Fun fact, or age giveaway 🙈: When I started out I used to save data on cassette tapes 📼
+⚡ Fun fact, or age giveaway 🙈:
+
+When I started out I used to save data on cassette tapes 📼
 
 <!--
 **eberjoe/eberjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
