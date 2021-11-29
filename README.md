@@ -1,8 +1,8 @@
 ### Hi peeps 👋
 
-I'm Eber, currently working with modern front-end techs but a programming enthusiast since childhood 👶
+I'm Eber, currently working with modern back-end techs involving Java ☕, but a programming enthusiast since childhood 👶
 
-I'm very much into Java too ☕
+I'm very much into front-end development as well, especially with React.JS ⚛️
 
 ⚡ Fun fact, or age giveaway:
 
