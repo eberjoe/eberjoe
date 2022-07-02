@@ -4,9 +4,7 @@ I'm Eber, currently working with modern back-end techs involving Java ☕, but a
 
 I'm very much into front-end development as well, especially with React.JS ⚛️
 
-⚡ Fun fact, or age giveaway:
 
-When I started out I used to save data on cassette tapes 📼 🙈
 
 <!--
 **eberjoe/eberjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
