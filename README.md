@@ -1,6 +1,6 @@
 ### Hi peeps 👋
 
-I'm Eber, currently focusing on Java ☕ and Spring Boot :leaves:
+I'm Eber, several years of experience with Java ☕ and Spring Boot :leaves:
 
 I'm very much into front-end development as well, especially with React.JS ⚛️
 
