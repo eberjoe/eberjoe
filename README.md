@@ -2,6 +2,8 @@
 
 I'm Eber, several years of experience with Java ☕ and Spring Boot :leaves:
 
+Currently deepening my knowledge of Go.
+
 I'm very much into front-end development as well, especially with React.JS ⚛️
 
 
