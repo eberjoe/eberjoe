@@ -1,6 +1,6 @@
 ### Hi peeps 👋
 
-I'm Eber, several years of experience with Java ☕ and Spring Boot :leaves:
+I'm Eber, several years of experience with Java ☕ and Spring Boot :leaves: and a big fan of cloud computing, especially on AWS.
 
 Currently deepening my knowledge of Go.
 
