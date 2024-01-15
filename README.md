@@ -4,7 +4,7 @@ I'm Eber, several years of experience with Java ☕ and Spring Boot :leaves: and
 
 Currently deepening my knowledge of Go.
 
-Besides Java and Go, I also code for Node.js and I'm very much into front-end development as well, especially with React.JS ⚛️
+Besides Java, Kotlin and Go, I also code for Node.js and I'm very much into front-end development as well, especially with React.JS ⚛️
 
 
 
